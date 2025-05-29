@@ -14,8 +14,7 @@ body{
     padding: 15px;
     width: 300px;
     text-align: center;
-
- 
+    box-shadow: 10px 10px hsl(212, 45%, 89%);
 }
 
 #white-box img{
@@ -27,9 +26,11 @@ body{
 #white-box h1{
     color: hsl(218, 44%, 22%);
     font-size: 25px;
+    font-weight: 700;
 }
 
 #white-box p{
     color: hsl(216, 15%, 48%);
     font-size: 15px;
+    font-weight: 400;
 }

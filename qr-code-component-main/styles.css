@@ -1,9 +1,9 @@
 body{
     background-color:  hsl(212, 45%, 89%);
     font-family: 'Outfit', sans-serif;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    display: flex;   /* Enables Flexbox layout on the body */
+    align-items: center;   /* Vertically centers the content */
+    justify-content: center; /* Horizontally centers the content */
     min-height: 100vh; 
 
 }
@@ -18,7 +18,7 @@ body{
 }
 
 #white-box img{
-    width: 100%;
+    width: 100%;  /* Makes the image fill the width of its container */
     border-radius: 13px;
     
  
